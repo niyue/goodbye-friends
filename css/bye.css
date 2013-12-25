@@ -16,3 +16,7 @@ h1{
 	font-size: 1em;
 	font-family: arial,helvetica;
 }
+
+img {
+	border: 0;
+}
